@@ -195,4 +195,127 @@ border:none;
     height:360px;
     width:330px;
 }
- 
+footer{
+    margin-top: 15px;
+}
+ .foot-panel1{
+    background-color: #37475a;
+    color:white;
+    height: 50px;
+    width: 1580px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+    position: absolute;
+    top:900px;
+ }
+ .foot-panel2{
+    background-color: #222f3d;
+    color:white;
+    height:430px;
+ width: 1580px;
+    
+  
+    font-size: 0.87rem;
+    position: absolute;
+    top:950px;
+    
+    
+ }
+ .font-one{
+    font-size: 0.94rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    display: flex;
+ }
+ .rest-panel {
+    margin-top: 13px;
+    margin-bottom: 13px;
+ }
+  .rest-panel1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+ } .rest-panel2{
+    margin-top: 13px;
+    margin-bottom: 13px;
+ } .rest-panel3{
+    margin-top: 13px;
+    margin-bottom: 13px;
+    
+ }
+ .rest-panel4{
+    margin-top: 13px;
+    margin-bottom: 13px;
+ } .rest-panel5{
+    margin-top: 13px;
+    margin-bottom: 13px;
+ } .rest-panel6{
+    margin-top: 13px;
+    margin-bottom: 13px;
+    
+ }
+ .rest-panel7{
+    margin-top: 13x;
+    margin-bottom: 13px;
+ } 
+ .hi{
+   position: relative;
+   left:480px;
+   bottom:162px;
+    
+ }
+ .hello{
+    position: relative;
+    left:100px;
+    
+ }
+ .hi1{
+    position: relative;
+    left: 800px;
+    bottom:294px;
+ }
+ .yo{
+    position: relative;
+    left:1200px;
+    bottom: 580px;
+
+ }
+ .foot-logo{
+    height:100px;
+    width:1580px;
+    position: relative;
+    bottom:500px;
+    border-top: 0.1px solid white;
+   
+ }
+ .foot-icon{
+    height:40px;
+    width:100px;
+    background-image: url("ama.png");
+    background-size: contain;
+    
+    position: relative;
+    left:600px;
+    top: 35px;
+ }
+ .globe{
+    background-color: #222f3d;
+    font-weight: 500;
+    color: white;
+    position: relative;
+    left:220px;
+    bottom:14px;
+   
+ }
+ .globe-icon{
+    height: 20px;
+    width: 20px;
+    color:white;
+    background-color: #222f3d;
+    display: flex;
+    position: relative;
+    left:200px;
+    top:7px;
+ }
